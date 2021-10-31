@@ -14,8 +14,7 @@ section{
 body{
     overflow: hidden;
     height: 640px;
-    background-image: linear-gradient(skyblue,purple,orange);
-
+    background-image:linear-gradient(purple,black);
 }
 button{
     background-color: none;
